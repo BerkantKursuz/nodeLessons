@@ -4,5 +4,7 @@ console.log(nameler)
 let selamla = (name) =>{
     console.log('Merhaba, '+name)
 }
-
-selamla('Berkant')
+let anotherSelam = (names)=>{
+    console.log('Macbooktan Selamlar, '+names)
+}
+anotherSelam('Berkant')
